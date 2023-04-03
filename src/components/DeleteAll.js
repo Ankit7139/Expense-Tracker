@@ -5,7 +5,7 @@ export const DeleteAll = () => {
   const { deleteAll } = useContext(GlobalContext);
 
   return (
-    <button className="btn btn-danger" onClick={deleteAll}>
+    <button className="btn" onClick={deleteAll}>
       Delete All
     </button>
   );
