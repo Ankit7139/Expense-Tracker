@@ -146,6 +146,15 @@ input[type="number"] {
   transition: opacity 0.3s ease;
 }
 
+.container--inside {
+  margin-left: 40px;
+  width: 350px;
+}
+
+.parent--container {
+  display: flex;
+}
+
 .list li:hover .delete-btn {
   opacity: 1;
 }
