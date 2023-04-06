@@ -150,6 +150,7 @@ input[type="number"] {
 .container--inside {
   margin-left: 40px;
   width: 350px;
+  padding-top: 60px;
 }
 
 h2 {
