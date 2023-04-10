@@ -35,7 +35,6 @@ export const Transaction = ({ transaction }) => {
       >
         X
       </button>
-      <input type="checkbox"></input>
     </li>
   );
 };
